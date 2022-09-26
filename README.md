@@ -75,5 +75,5 @@ Users should be able to:
 
 - Frontend Mentor - [@zenab12](https://www.frontendmentor.io/profile/zenab12)
 - Twitter - [@zenabmo90454136](https://twitter.com/zenabmo90454136)
-- Linkedin -[@zenab-mohamed-23133a1a1](https://www.linkedin.com/in/zenab-mohamed-23133a1a1/)
+- Linkedin -[@zienabmuhammad](https://www.linkedin.com/in/zienabmuhammad/)
 
