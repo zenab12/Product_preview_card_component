@@ -71,3 +71,9 @@ Users should be able to:
 - [HTML Notes for professional book](https://www.computer-pdf.com/web-programming/html/827-tutorial-html5-notes-for-professionals-book.html) - HTML Notes for professional book help me in many important Notes.
 - [CSS BEM](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/) - helped me in name classes in best pratice
 
+### Author
+
+- Frontend Mentor - [@zenab12](https://www.frontendmentor.io/profile/zenab12)
+- Twitter - [@zenabmo90454136](https://twitter.com/zenabmo90454136)
+- Linkedin -[@zenab-mohamed-23133a1a1](https://www.linkedin.com/in/zenab-mohamed-23133a1a1/)
+
