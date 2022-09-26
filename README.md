@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![zenab12 github io_Product_preview_card_component_(Nest Hub)](https://user-images.githubusercontent.com/78083890/192288931-5e9059f8-927f-4501-b07c-929e231c3716.png)
 
 ### Links
 
